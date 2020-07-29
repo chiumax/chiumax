@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
+  <img src="https://github.com/chiumax/chiumax/blob/master/computer_frustration.gif"/>
 </p>
 <!--
 **chiumax/chiumax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
