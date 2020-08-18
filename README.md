@@ -1,12 +1,22 @@
-# How I Feel On A Daily Basis
-<p align="center">
-  <img src="https://github.com/chiumax/chiumax/blob/master/computer_frustration.gif"/>
-  <img src="https://github.com/chiumax/chiumax/blob/master/tenor%20(4).gif"/>
-  <img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
-  <img src="https://github.com/chiumax/chiumax/blob/master/giphy.gif"/>
-  <img src="https://github.com/chiumax/chiumax/blob/master/tenor%20(5).gif"/>
-  <img src="https://github.com/chiumax/chiumax/blob/master/200.gif"/>
-</p>
+# My Typical Day
+
+### Turning on the laptop in the morning after spilling coffee on it 
+<img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
+
+### Existential dread after morning sprint planning
+<img src="https://github.com/chiumax/chiumax/blob/master/tenor%20(5).gif"/>
+
+### After lunch early afternoon
+<img src="https://github.com/chiumax/chiumax/blob/master/tenor%20(4).gif"/>
+
+### Having difficulties merging code at the end of the day
+<img src="https://github.com/chiumax/chiumax/blob/master/computer_frustration.gif"/>
+
+### Trying to run code from a repository that was last updated 5 years ago
+<img src="https://github.com/chiumax/chiumax/blob/master/200.gif"/>
+
+
+  
 <!--
 **chiumax/chiumax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
