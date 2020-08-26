@@ -1,6 +1,6 @@
 # My Typical Day
 
-### Turning on the laptop in the morning after spilling coffee on it 
+### Turning on the laptop after spilling coffee on it 
 <img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
 
 ### Existential dread after morning sprint planning
