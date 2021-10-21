@@ -1,6 +1,7 @@
-# My Typical Day
 
-### Turning on the laptop after spilling coffee on it 
+<!-- # My Typical Day -->
+
+<!-- ### Turning on the laptop after spilling coffee on it 
 <img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
 
 ### Existential dread after morning sprint planning
@@ -13,7 +14,7 @@
 <img src="https://github.com/chiumax/chiumax/blob/master/computer_frustration.gif"/>
 
 ### Trying to run code from a repository that was last updated 5 years ago
-<img src="https://github.com/chiumax/chiumax/blob/master/200.gif"/>
+<img src="https://github.com/chiumax/chiumax/blob/master/200.gif"/> -->
 
 
   
