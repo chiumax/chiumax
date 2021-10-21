@@ -1,5 +1,7 @@
 
 <!-- # My Typical Day -->
+<img src="https://github.com/chiumax/chiumax/blob/master/anime-i-hate-studying.gif"/>
+<img src="https://github.com/chiumax/chiumax/blob/master/midoriya-izuku-anime-stud.gif"/>
 
 <!-- ### Turning on the laptop after spilling coffee on it 
 <img src="https://github.com/chiumax/chiumax/blob/master/ezgif-5-0d460c90b506.gif"/>
