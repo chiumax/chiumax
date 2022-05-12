@@ -1,6 +1,6 @@
 
 <!-- # My Typical Day -->
-<img src="https://github.com/chiumax/chiumax/blob/master/hqdefault.jpg"/>
+<img src="https://github.com/chiumax/chiumax/blob/master/neverGIVEup.gif"/>
 
 <!-- <img src="https://github.com/chiumax/chiumax/blob/master/anime-i-hate-studying.gif"/>
 <img src="https://github.com/chiumax/chiumax/blob/master/midoriya-izuku-anime-stud.gif"/> -->
